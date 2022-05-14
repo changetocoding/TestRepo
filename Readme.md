@@ -1,3 +1,5 @@
+# Hello T!
+
 # Lesson
 Using Git Bash and Using Git on VSC
 # Prior Homework assessment
